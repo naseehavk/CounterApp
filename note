@@ -1,0 +1,8 @@
+REACT REDUX 
+
+
+STORE[state]--->component
+
+if component need to make change in state 
+
+component---> dispatch---->action---->payload---->store[reducer]---->update--->store[state]
